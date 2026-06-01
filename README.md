@@ -10,7 +10,7 @@ This is a split, wireless-only mechanical keyboard fashioned after the [chocofi 
 - Kailh choc spacing
 - Sweep-like column stagger (with pinky columns 2 mm lower, like chocofi) with Corne-like thumb cluster
 - Reversible PCB (so one design can be used for both halves)
-- Kailh choc hotswap sockets
+- Kailh Choc v2 hotswap sockets and switches
 - Intended to be used with [nice!nano](https://nicekeyboards.com/nice-nano)
 - Uses 7-pin SPDT power switch and includes pads for battery on keyboard shield PCB
 - Support for [nice!view](https://nicekeyboards.com/nice-view)
@@ -36,9 +36,9 @@ This is a split, wireless-only mechanical keyboard fashioned after the [chocofi 
 - 2x LiPo batteries (see nice!nano documentation for suggestions)
 - 2x Alps miniature SPDT switches
 - 2x Panasonic miniature momentary button switches 
-- 36x Kailh choc v1 switches
-- 36x Kailh choc hotswap sockets
-- 36x Choc v1 keycaps
+- 36x Kailh Choc v2 switches
+- 36x Kailh Choc v2 hotswap sockets
+- 36x Choc v2-compatible keycaps
 - 36x 1N4148W SMD diodes
 - (Technically optional but highly recommended) MCU socket:
   - 4x Mill-Max 310 series machine sockets
